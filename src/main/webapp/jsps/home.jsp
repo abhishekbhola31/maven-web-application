@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Abhishek Bro</h1>
-<h1 align="center"> Just study for 2 to 3 hours a day and I am sure you will get the job within 1 month. And all you problems will start coming to an end</h1>
+<h1 align="center">Welcome to Mithun Technologies</h1>
+<h1 align="center"> New Online Batch is starting from 26 Feb, Please share the message to friends</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
