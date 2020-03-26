@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
+<h1 align="center">Welcome to Mithun Technologies..</h1>
 <h1 align="center"> New Online Batch is starting from 26 Feb, Please share the message to friends</h1>
 <hr>
 <div style="text-align: center;">
