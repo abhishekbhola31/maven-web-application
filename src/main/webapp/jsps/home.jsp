@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Raghav Sharma</h1>
-<h1 align="center"> New Online Batch is starting from 26 Feb, Please share the message to friends</h1>
+<h1 align="center">Welcome Abhishek Bhola</h1>
+<h1 align="center"> Finish Your DevOps cource by 31 Aug</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
